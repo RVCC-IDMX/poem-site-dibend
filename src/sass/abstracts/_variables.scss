@@ -2,7 +2,7 @@
 
 @use "./functions" as func;
 
-$bg-color: gold;
+$bg-color: red;
 $bg-very-light: func.tint($bg-color, 50%);
 $bg-light: func.tint($bg-color, 25%);
 $bg-medium: $bg-color;
@@ -10,7 +10,7 @@ $bg-dark: func.shade($bg-color, 25%);
 $bg-very-dark: func.shade($bg-color, 50%);
 
 
-$primary-color: rebeccapurple;
+$primary-color: darkblue;
 $primary-very-light: func.tint($primary-color, 50%);
 $primary-light: func.tint($primary-color, 25%);
 $primary-medium: $primary-color;
