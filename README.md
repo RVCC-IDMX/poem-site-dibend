@@ -31,7 +31,7 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>
-  The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)<br>
+  The starter was inspired by <a href="https://github.com/5t3ph/11ty-sass-skeleton">11ty Sass Skeleton]</a> by <a href="https://twitter.com/5t3ph">@5t3ph</a><br>
   Background image by Joel Filipe on <a href="https://unsplash.com">Unsplash.com</a><br>
   Featured image by <a href="https://openai.com/dall-e-2/">OpenAI Dall E 2</a>
 </small>
