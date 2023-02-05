@@ -1,4 +1,6 @@
-# IDMX 11ty Sass Starter
+# IDMX 11ty Poem Website by David DiBenedetto
+
+## A simple web site featuring a poem by the late Marianne Moore (1887-1972)
 
 The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
 
@@ -28,4 +30,8 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 
 ## Resources
 
-<small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+<small>
+  The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)<br>
+  Background image by Joel Filipe on <a href="https://unsplash.com">Unsplash.com</a><br>
+  Featured image by <a href="https://openai.com/dall-e-2/">OpenAI Dall E 2</a>
+</small>
