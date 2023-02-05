@@ -51,7 +51,7 @@ img {
 }
 
 a {
-  color: var.$primary-color;
+  color: yellow;
 }
 
 article {
@@ -64,4 +64,33 @@ footer {
   display: grid;
   justify-items: center;
   font-size: 1.5rem;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  a {
+    transition: 0.6s;
+  }
+
+  a:hover {
+    color: cyan;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 1.2rem;
+    background-size: 260%;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+
+  p, footer {
+    font-size: 1rem;
+  }
 }
